@@ -1,0 +1,11 @@
+
+
+<room id="0" name="firstRoom">
+	<desc>There is nothing in this room except a door
+		leading north.</desc>
+</room>
+
+<room id="1" name="secondRoom">
+	<desc>This is a living room. Someone is sitting
+		by the window at the east wall.</desc>
+</room>
