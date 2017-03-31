@@ -1,0 +1,34 @@
+Setting:
+    - NASA building July 1960
+    - USA secretly brought back live specimen from space
+    
+Design:
+	-Text based
+	-Timed events
+	-Modular
+		>Different functions for different obstacles/occurrences
+	- Randomized obstacles
+		>Chooses which modular function to choose from
+	-Progression of Items
+		>Armor/Tools/Weapons
+	-Ongoing health bar
+		>Damage/Health
+	-Structs of different locations
+		
+Goals:
+	-Inventory
+	-Crafting
+	-Engaging combat
+	-Non-linear
+	-Save progress to a file
+	
+Interesting Ideas:
+	-Shop with monetary values or trading
+	-Escaping from rooms
+	-Systematically numbered doors
+		
+
+		
+		
+User Interface:
+    
